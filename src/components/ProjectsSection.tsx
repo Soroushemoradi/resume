@@ -59,7 +59,7 @@ const ProjectsSection = () => {
             >
               <div className="overflow-hidden h-[360px]">
                 <Image
-                  src="https://www.webforce.ir/uploads/soroushResume/coach.vitaform.ir_%20(1).png"
+                  src="/images/coach.vitaform.ir_ (1).png"
                   alt="coach-vitaform"
                   width={582}
                   height={640}
@@ -126,7 +126,7 @@ const ProjectsSection = () => {
             >
               <div className="overflow-hidden md:h-[360px] h-[250px]">
                 <Image
-                  src="https://www.webforce.ir/uploads/soroushResume/vitaform.ir_.png"
+                  src="/images/vitaform.ir_.png"
                   alt="vitaform-user"
                   width={582}
                   height={640}
@@ -192,7 +192,7 @@ const ProjectsSection = () => {
             >
               <div className="overflow-hidden h-[360px]">
                 <Image
-                  src="https://www.webforce.ir/uploads/soroushResume/omanix.png"
+                  src="/images/omanix.png"
                   alt="omanix"
                   width={582}
                   height={640}
@@ -258,7 +258,7 @@ const ProjectsSection = () => {
             >
               <div className="overflow-hidden md:h-[360px] h-[250px]">
                 <Image
-                  src="https://www.webforce.ir/uploads/soroushResume/menu.webforce.ir_%20(1).png"
+                  src="/images/menu.webforce.ir_ (1).png"
                   alt="menu-webforce"
                   width={582}
                   height={640}
