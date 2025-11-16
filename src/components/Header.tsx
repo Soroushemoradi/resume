@@ -46,7 +46,7 @@ const Header = () => {
             href="#lab"
             className="hover:text-[#a855f7] transition duration-200"
           >
-            Lab
+            skills
           </Link>
           <Link
             href="#projects"
@@ -93,7 +93,7 @@ const Header = () => {
               className="hover:text-[#a855f7] transition duration-200"
                   onClick={() => setIsOpen(false)}
             >
-              Lab
+              skills
             </Link>
             <Link
               href="#projects"
