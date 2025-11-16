@@ -11,30 +11,31 @@ type ExperienceItem = {
 
 const experienceItems: ExperienceItem[] = [
   {
-    title: "CIB on the Mobile",
+    title: "Online Exam Platform",
     description:
-      "Your end‑to‑end product experience journey for an amazing digital experience.",
+      "Developed a modern and responsive interface for an online exam and evaluation system using React, TypeScript, and Tailwind CSS.",
     image: "/images/work-expriences-1.png",
   },
   {
-    title: "CIB on the Mobile",
+    title: "Omanix Corporate Website",
     description:
-      "Your end‑to‑end product experience journey for an amazing digital experience.",
+      "Designed and implemented a multilingual, mobile-friendly corporate website with a clean UI and optimized performance.",
     image: "/images/work-expriences-2.png",
   },
   {
-    title: "CIB on the Mobile",
+    title: "NetBan Platform",
     description:
-      "Your end‑to‑end product experience journey for an amazing digital experience.",
+      "Refactored the frontend codebase, fixed critical UI issues, improved responsiveness, and enhanced overall performance.",
     image: "/images/work-expriences-3.png",
   },
   {
-    title: "CIB on the Mobile",
+    title: "Didban Platform",
     description:
-      "Your end‑to‑end product experience journey for an amazing digital experience.",
+      "Contributed to UI modernization, bug fixing, API integration, and performance optimization across the platform.",
     image: "/images/work-expriences-4.png",
   },
 ];
+
 
 const WorkExperience = () => {
   return (

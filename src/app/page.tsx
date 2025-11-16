@@ -2,7 +2,7 @@ import ContactSection from "@/components/ContactSection";
 import HereSection from "@/components/HereSection";
 import ProjectsSection from "@/components/ProjectsSection";
 import TechStack from "@/components/TechStack";
-import WorkExperience from "@/components/WorkExperience";
+import WorkExperience from "@/components/WorkExoerience";
 
 const Home = () => {
   return (
