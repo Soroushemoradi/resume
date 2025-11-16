@@ -58,8 +58,8 @@ const ProjectsSection = () => {
               className="group cursor-pointer rounded-2xl overflow-hidden bg-[#0f061c] border border-[#2f1c55] shadow-[0_0_90px_rgba(168, 85, 247, 0.28)] transition-transform duration-300 hover:-translate-y-1"
             >
               <div className="overflow-hidden h-[360px]">
-                <Image
-                  src="/images/coach.vitaform.ir_ (1).png"
+                <img
+                  src="https://www.webforce.ir/uploads/soroushResume/coach.vitaform.ir_%20(1).png"
                   alt="coach-vitaform"
                   width={582}
                   height={640}
@@ -125,8 +125,8 @@ const ProjectsSection = () => {
               className="group cursor-pointer rounded-2xl overflow-hidden bg-[#0f061c] border border-[#2f1c55] shadow-[0_0_90px_rgba(168, 85, 247, 0.28)] transition-transform duration-300 hover:-translate-y-1"
             >
               <div className="overflow-hidden md:h-[360px] h-[250px]">
-                <Image
-                  src="/images/vitaform.ir_.png"
+                <img
+                  src="https://www.webforce.ir/uploads/soroushResume/vitaform.ir_.png"
                   alt="vitaform-user"
                   width={582}
                   height={640}
@@ -191,8 +191,8 @@ const ProjectsSection = () => {
               className="group cursor-pointer rounded-2xl overflow-hidden bg-[#0f061c] border border-[#2f1c55] shadow-[0_0_90px_rgba(168, 85, 247, 0.28)] transition-transform duration-300 hover:-translate-y-1"
             >
               <div className="overflow-hidden h-[360px]">
-                <Image
-                  src="/images/omanix.png"
+                <img
+                  src="https://www.webforce.ir/uploads/soroushResume/omanix.png"
                   alt="omanix"
                   width={582}
                   height={640}
@@ -257,8 +257,8 @@ const ProjectsSection = () => {
               className="group cursor-pointer rounded-2xl overflow-hidden bg-[#0f061c] border border-[#2f1c55] shadow-[0_0_90px_rgba(168, 85, 247, 0.28)] transition-transform duration-300 hover:-translate-y-1"
             >
               <div className="overflow-hidden md:h-[360px] h-[250px]">
-                <Image
-                  src="/images/menu.webforce.ir_ (1).png"
+                <img
+                  src="https://www.webforce.ir/uploads/soroushResume/menu.webforce.ir_%20(1).png"
                   alt="menu-webforce"
                   width={582}
                   height={640}
