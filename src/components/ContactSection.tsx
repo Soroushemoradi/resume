@@ -25,6 +25,13 @@ const ContactSection = () => {
             moradi.soroush1381@gmail.com
           </Link>
         </div>
+        <div className="mt-6 text-white/80  w-25">
+          <p
+            className="hover:text-[#a855f7]"
+          >
+            09353599991
+          </p>
+        </div>
 
         {/* Social links */}
         <div className="mt-6 flex items-center gap-4 text-white/80">
