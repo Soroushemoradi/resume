@@ -78,7 +78,7 @@ const HereSection = () => {
             </h1>
 
             <p className="mt-2 text-[10px] md:text-xs text-white/50 max-w-md md:max-w-lg mx-auto md:mx-0">
-              Focused on creating clean, responsive, and maintainable UI using
+              Focused on creating clean, responsive, and maintainable UI using word press,
               React, TypeScript, and Tailwind CSS.
             </p>
           </div>

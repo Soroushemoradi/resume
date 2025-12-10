@@ -269,6 +269,70 @@ const ProjectsSection = () => {
           </div>
         </ScrollReveal>
       </div>
+      <div>
+        <div
+          className="pointer-events-none absolute right-0 left-1/3 top-8 -z-10 h-[420px] opacity-40 blur-3xl"
+          style={{
+            background:
+              "radial-gradient(60% 60% at 60% 40%, rgba(125, 58, 242, 0.65) 0%, rgba(18, 8, 36, 0) 70%)",
+          }}
+        />
+        <ScrollReveal
+          stagger={0.12}
+          delay={0.2}
+          className="grid grid-cols-1 md:grid-cols-2 items-center"
+        >
+          {/* text */}
+          <div className="relative z-10">
+            <div className="mb-12">
+              <p className="text-xs text-[#a48cc9]">Featured Project</p>
+              <h3 className="text-2xl md:text-3xl font-semibold text-white/90">
+                Nevis shop
+              </h3>
+            </div>
+            <div className="relative md:-mr-2 md:-mt-6 z-20 max-w-5xl rounded-2xl p-5 bg-white/6 backdrop-blur-sm border border-white/10 shadow-[0_6px_50px_rgba(126,34,206,0.25)]">
+              <p className="text-sm p-4 text-white/75">
+                A stationery store with a wide variety of products to complete
+                your office and workspace
+              </p>
+              <div
+                className="pointer-events-none absolute -inset-px rounded-[14px] opacity-60"
+                style={{
+                  background:
+                    "linear-gradient(135deg, rgba(168, 85, 247, 0.35), rgba(168, 85, 247, 0.05))",
+                }}
+              />
+            </div>
+            <div className="mt-6 ml-2 flex flex-wrap gap-3 text-white/60">
+              <a
+                href="https://nevisshop.ir/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:text-[#a855f7] underline"
+              >
+                nevisshop.ir
+              </a>
+            </div>
+          </div>
+          {/* image */}
+          <div>
+            <div
+              tabIndex={0}
+              className="group cursor-pointer rounded-2xl overflow-hidden bg-[#0f061c] border border-[#2f1c55] shadow-[0_0_90px_rgba(168, 85, 247, 0.28)] transition-transform duration-300 hover:-translate-y-1"
+            >
+              <div className="overflow-hidden h-[360px]">
+                <img
+                  src="https://webforce.ir/uploads/amirResume/Nevisshop_ir.png"
+                  alt="nevisshop"
+                  width={582}
+                  height={640}
+                  className="w-full h-auto transition-transform duration-3500 ease-linear group-hover:-translate-y-[55%]"
+                />
+              </div>
+            </div>
+          </div>
+        </ScrollReveal>
+      </div>
     </section>
   );
 };
